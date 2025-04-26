@@ -1,5 +1,4 @@
 # Identifying Key Brain Biomarkers for Alzheimer's Disease Progression and Stability: A Machine Learning Approach
-
 ## Summary
 
 This repository contains the code and methodology for identifying critical brain MRI biomarkers associated with Alzheimer's disease progression and cognitive stability using machine learning techniques. By analyzing longitudinal and baseline neuroimaging data, we developed predictive models that outperform conventional full-feature models.
